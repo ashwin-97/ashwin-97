@@ -1,4 +1,4 @@
-Hi, I’m Ashwin Misra. I am currently doing my Masters in Robotics from Carnegie Mellon University. My interests lie in constrained scheduling, planning and undertainty in AI.
+# Hi, I’m Ashwin Misra. I am currently doing my Masters in Robotics from Carnegie Mellon University. My interests lie in constrained scheduling, planning and uncertainty in AI.
 
 
 <!---
